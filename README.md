@@ -2,6 +2,9 @@
 
 Hey guys this is a nextjs project. Inspired By <a href="https://github.com/huzaifa-khan-official">@Huzaifa Khan</a> Portfolio.
 
+## 💻 UI
+
+![zain-khan vercel app_](https://github.com/user-attachments/assets/7a911d16-ee43-46d8-953f-de40050db7d2)
 
 
 ## 📌 Setup Instructions
@@ -16,10 +19,8 @@ Modify the `constant.ts` file to update your personal details, social links, exp
 #### **Fields to Update:**
 - **Hero Section** (name, title, subtitle, resume, social links)
 - **About Section** (description, expertise)
-- **Experiences** (job roles, companies, periods, skills)
 - **Projects** (titles, descriptions, technologies, links, images)
 - **Services** (offered services, descriptions, icons)
-- **Certificates** (certifications, issuers, images)
 - **Contact Info** (email, phone, address)
 - **Year** (Current year is dynamically set)
 
