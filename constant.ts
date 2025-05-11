@@ -5,7 +5,7 @@ export const profileData: IProfile = {
         name: "Zain Khan",
         title: "MERN Stack Developer",
         subtitle: "Building scalable web applications with modern technologies",
-        resume: "https://drive.google.com/file/d/1f2ABnrXpobHeoaRQO3rF-f4NZ40IHIUp/view?usp=sharing",
+        resume: "https://drive.google.com/file/d/1Mn-7ZzBSS4i9UZSrh7V1cxEmq999dWZN/view?usp=sharing",
         social_links: {
             github: "https://github.com/zainkhan25",
             linkedin: "https://linkedin.com/in/Zain-khan-officia",
