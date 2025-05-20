@@ -36,7 +36,6 @@ export interface IProject {
     technologies: string[];
     links: {
         live: string;
-        github: string;
     };
 }
 

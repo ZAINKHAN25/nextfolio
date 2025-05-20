@@ -41,7 +41,6 @@ export const profileData: IProfile = {
             technologies: ["MERN", "React.js", "MongoDB", "Express.js", "Node.js", "Zustand", "ImageKit"],
             links: {
                 live: "https://blogging-site-official.vercel.app/",
-                github: "https://github.com/Huzaifa-Khan-Official/Blogging-Site"
             }
         },
         {
@@ -51,7 +50,6 @@ export const profileData: IProfile = {
             technologies: ["React.js", "GSAP", "Tailwind CSS"],
             links: {
                 live: "https://gaming-animated-website.vercel.app/",
-                github: "https://github.com/Huzaifa-Khan-Official/Animated-Website"
             }
         },
         {
@@ -61,7 +59,6 @@ export const profileData: IProfile = {
             technologies: ["MERN", "Socket.io", "Cloudinary", "MongoDB", "Express.js", "React.js", "Node.js"],
             links: {
                 live: "https://chat-app-rq4w.onrender.com/",
-                github: "https://github.com/Huzaifa-Khan-Official/Chat-App"
             }
         },
         {
@@ -71,7 +68,6 @@ export const profileData: IProfile = {
             technologies: ["React.js", "Firebase", "Authentication", "Storage"],
             links: {
                 live: "https://restauranthub.vercel.app/",
-                github: "https://github.com/Huzaifa-Khan-Official/RestaurantHub"
             }
         },
         {
@@ -81,7 +77,6 @@ export const profileData: IProfile = {
             technologies: ["React.js", "Next.js", "Framer Motion", "React Bootstrap"],
             links: {
                 live: "https://next-agency-web.vercel.app/",
-                github: "https://github.com/Huzaifa-Khan-Official/next-agency-web"
             }
         },
         {
@@ -91,7 +86,6 @@ export const profileData: IProfile = {
             technologies: ["React.js", "Framer Motion", "React Responsive Carousel", "React Toastify", "React Type Animation"],
             links: {
                 live: "https://react-portfolio-maker.vercel.app",
-                github: "https://github.com/Huzaifa-Khan-Official/reactfolio"
             }
         },
         {
@@ -101,7 +95,6 @@ export const profileData: IProfile = {
             technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Firebase"],
             links: {
                 live: "https://assignment-submission-portal.vercel.app/",
-                github: "https://github.com/Huzaifa-Khan-Official/Assignment-Submission-Portal-Frontend"
             }
         },
     ],
