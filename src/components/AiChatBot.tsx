@@ -3,7 +3,6 @@ import React from "react";
 function AiChatBot() {
   return (
     <div>
-        
       <iframe
         src="https://www.chatbase.co/chatbot-iframe/6UmUbM3fgnxNEGifyp2vX"
         width="100%"
