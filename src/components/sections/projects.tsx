@@ -1,6 +1,6 @@
 "use client"
 
-import { ExternalLink, Github } from "lucide-react"
+import { ExternalLink } from "lucide-react"
 import Image from "next/image"
 import gsap from "gsap"
 import { ScrollTrigger } from "gsap/ScrollTrigger"
